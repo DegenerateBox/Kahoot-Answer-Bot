@@ -102,3 +102,5 @@ try:
 except Exception as err:
     print("There was an error! It could be because the quiz id is incorrect.\n")
     print(err)
+
+input("\nEnter to exit...")
